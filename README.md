@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Júlia Alves 
 
-**Desenvolvedora FullStack | Engenheira em formação | Exploradora de tecnologias inteligentes**
+** Engenheira em formação | Exploradora de tecnologias inteligentes**
 
 Olá! Sou a **Júlia Alves**, tenho 25 anos e sou natural de Brasília. Atualmente, sou graduanda em **Engenharia de Energias Renováveis** pela **Universidade Federal da Paraíba (UFPB)**, com forte atuação em desenvolvimento FullStack e tecnologias aplicadas à sustentabilidade, dados e automação.
 
