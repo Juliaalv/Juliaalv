@@ -16,7 +16,6 @@ Tenho experiência prática em projetos que envolvem:
 - 🌍 **Geoprocessamento & Informações Georreferenciadas**, integrando dados espaciais em sistemas interativos  
 - 💻 Desenvolvimento **Web FullStack**, com aplicações dinâmicas e conectadas a bancos de dados inteligentes  
 
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -37,7 +36,6 @@ Tenho experiência prática em projetos que envolvem:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React"
@@ -46,8 +44,6 @@ Tenho experiência prática em projetos que envolvem:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Git" 
@@ -64,6 +60,40 @@ Tenho experiência prática em projetos que envolvem:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Grafana" 
+    title="Grafana"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="InfluxDB" 
+    title="InfluxDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" 
+/>
 
 <br/>
 <br/>
+
+---
